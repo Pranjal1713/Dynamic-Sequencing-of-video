@@ -1,0 +1,12 @@
+.heading{
+    border: 1px solid black;
+    border-radius: 10px;
+    background-color: crimson;
+    /* background-color: linear-gradient(to right, red, yellow); */
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;
+    /* text-transform: capitalize; */
+    /* text-shadow: 0 2px; */
+    /* text-decoration: wavy */
+    /* font-stretch: condensed; */
+}
